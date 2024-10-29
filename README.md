@@ -6,3 +6,5 @@ Primeiros testes com o GitHUb
 Criar entradas para testar ramos
 
 A experimentar no NovoRamo
+
+Agora a fazer em linha de comando ;-)))))))))))))
